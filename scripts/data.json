@@ -1,18 +1,25 @@
 {
  "repos": [
   {
-   "name": "srivathsa12",
-   "language": "Python",
-   "stars": 0,
-   "fork": false,
-   "pushed": "2026-11-21"
-  },
-  {
    "name": "digital-detective-8490",
    "language": "Python",
    "stars": 0,
    "fork": false,
-   "pushed": "2026-11-16"
+   "pushed": "2026-11-23"
+  },
+  {
+   "name": "llm-pipeline-explorer",
+   "language": "HTML",
+   "stars": 0,
+   "fork": false,
+   "pushed": "2026-11-23"
+  },
+  {
+   "name": "srivathsa12",
+   "language": "Python",
+   "stars": 0,
+   "fork": false,
+   "pushed": "2026-11-22"
   },
   {
    "name": "bounce-back",
@@ -38,59 +45,66 @@
  ],
  "events": [
   {
-   "type": "CREATE",
+   "type": "PUSH",
    "repo": "digital-detective-8490",
+   "detail": "commits",
+   "date": "2026-11-23",
+   "n": 1
+  },
+  {
+   "type": "PUSH",
+   "repo": "digital-detective-8490",
+   "detail": "commits",
+   "date": "2026-11-23",
+   "n": 1
+  },
+  {
+   "type": "PUSH",
+   "repo": "digital-detective-8490",
+   "detail": "commits",
+   "date": "2026-11-23",
+   "n": 1
+  },
+  {
+   "type": "PUSH",
+   "repo": "digital-detective-8490",
+   "detail": "commits",
+   "date": "2026-11-23",
+   "n": 1
+  },
+  {
+   "type": "CREATE",
+   "repo": "llm-pipeline-explorer",
    "detail": "new branch",
-   "date": "2026-11-16",
+   "date": "2026-11-23",
    "n": 0
   },
   {
    "type": "PUSH",
    "repo": "digital-detective-8490",
    "detail": "commits",
-   "date": "2026-11-16",
+   "date": "2026-11-23",
    "n": 1
+  },
+  {
+   "type": "PR",
+   "repo": "digital-detective-8490",
+   "detail": "pull request merged",
+   "date": "2026-11-23",
+   "n": 0
+  },
+  {
+   "type": "PR",
+   "repo": "digital-detective-8490",
+   "detail": "pull request opened",
+   "date": "2026-11-23",
+   "n": 0
   },
   {
    "type": "PUSH",
    "repo": "digital-detective-8490",
    "detail": "commits",
-   "date": "2026-11-16",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-13",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
+   "date": "2026-11-23",
    "n": 1
   },
   {
@@ -98,118 +112,6 @@
    "repo": "srivathsa12",
    "detail": "commits",
    "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "CREATE",
-   "repo": "digital-detective-8490",
-   "detail": "new branch",
-   "date": "2026-11-10",
-   "n": 0
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-10",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-09",
-   "n": 1
-  },
-  {
-   "type": "PR",
-   "repo": "digital-detective-8490",
-   "detail": "pull request merged",
-   "date": "2026-11-10",
-   "n": 0
-  },
-  {
-   "type": "PR",
-   "repo": "digital-detective-8490",
-   "detail": "pull request opened",
-   "date": "2026-11-10",
-   "n": 0
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-09",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-09",
    "n": 1
   },
   {
@@ -228,24 +130,10 @@
   },
   {
    "type": "PUSH",
-   "repo": "digital-detective-8490",
-   "detail": "commits",
-   "date": "2026-11-09",
-   "n": 1
-  },
-  {
-   "type": "PUSH",
    "repo": "srivathsa12",
    "detail": "commits",
    "date": "2026-11-07",
    "n": 1
-  },
-  {
-   "type": "CREATE",
-   "repo": "digital-detective-8490",
-   "detail": "new branch",
-   "date": "2026-11-09",
-   "n": 0
   },
   {
    "type": "PUSH",
@@ -276,5 +164,5 @@
    "n": 0
   }
  ],
- "synced": "2026-11-23"
+ "synced": "2026-11-24"
 }
